@@ -1,0 +1,2 @@
+# OpenSoftwarePractice
+Class Project
